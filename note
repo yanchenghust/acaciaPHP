@@ -1,0 +1,16 @@
+#controller
+/aaa/bbb?***跳转到controller/aaa.php
+
+#controller
+根据uri匹配到action
+
+#action
+调用model，view
+
+#model
+数据库查询
+调用dao
+
+#view
+smarty模板
+
